@@ -1,0 +1,9 @@
+* {
+  font-family: Arial;
+}
+
+.logo {
+  background: black;
+  color: whitesmoke;
+  display: inline-block;
+}
